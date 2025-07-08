@@ -40,3 +40,15 @@
 .read-the-docs {
   color: #888;
 }
+
+.outer {
+  background: #eee;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.inner {
+  background: #646cff;
+  height: 100%;
+  transition: width 0.3s;
+}
